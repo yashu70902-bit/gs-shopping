@@ -1,0 +1,8 @@
+{
+  "name": "GS Shopping - Modern AI E-commerce Suite",
+  "description": "A comprehensive e-commerce platform featuring a sleek customer storefront and a robust admin management dashboard, rebranded for GS Shopping.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
